@@ -8,7 +8,7 @@ A business-focused data analysis project that investigates credit card transacti
 
 ### Tableau Dashboard
 
-![Tableau Dashboard](Dashboards/TableAu - Credit Card Fraud.png)
+![Tableau Dashboard](Dashboards/tableau_dashboard.png)
 
 ### Excel Dashboard
 
