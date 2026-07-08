@@ -73,7 +73,7 @@ credit-card-fraud-detection-analysis/
 │
 ├── Dashboards/
 │   ├── excel_dashboard.jpg
-│   └── TableAu - Credit Card Fraud.png
+│   └── tableau_dashboard.png
 │
 └── README.md
 ```
