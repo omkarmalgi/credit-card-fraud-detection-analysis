@@ -1,4 +1,5 @@
 # Credit Card Fraud Detection Analysis
+#Created by **Omkar Malgi**
 
 A business-focused data analysis project that investigates credit card transactions to identify fraudulent activity, measure key fraud metrics, and present actionable insights using **MySQL, Microsoft Excel, and Tableau**.
 
